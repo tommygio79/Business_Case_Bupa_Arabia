@@ -32,7 +32,7 @@ This case study outlines how Bupa Arabia transformed its member experience with 
 
 ## 🧑‍💻 Project Author
 
-Made with ❤️ by [Tommaso Gioacchini](https://www.tommasogioacchini.com)  
+Made with ❤️ by [Tommaso Gioacchini]  
 Regional Commercial Director @ Okadoc Technologies
 
 ## 📄 Live Preview
