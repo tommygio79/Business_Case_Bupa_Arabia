@@ -37,7 +37,7 @@ Regional Commercial Director @ Okadoc Technologies
 
 ## 📄 Live Preview
 
-👉 [Open Case Study](https://tommygio79.github.io/okadoc-bupa-arabia-case-study)
+👉 [Open Case Study](https://tommygio79.github.io/Business_Case_Bupa_Arabia/)
 
 ---
 
